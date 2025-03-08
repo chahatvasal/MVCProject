@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\MVCProject.ggwnmx4e1t.bundle.scp.css"
     },
     {
+      "Id": "E:\\MVCProject\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "E:\\MVCProject\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "E:\\MVCProject\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\MVCProject\\wwwroot\\images\\website-forms-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\website-forms-bg.jpg"
+    },
+    {
+      "Id": "E:\\MVCProject\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
     },
     {
       "Id": "E:\\MVCProject\\wwwroot\\js\\site.js",
